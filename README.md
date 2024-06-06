@@ -8,5 +8,5 @@
 
 ![image](https://github.com/MahmoudHegazi/modulo_pagination_slicing/assets/55125302/5e621da2-65bf-4246-89bc-166a882d845b)
 
-ex with max 5 buttons
+# ex with max 5 buttons
 ![image](https://github.com/MahmoudHegazi/modulo_pagination_slicing/assets/55125302/7b95e99b-7854-47e8-a259-ab438686bbfa)
